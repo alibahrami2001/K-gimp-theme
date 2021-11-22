@@ -1,2 +1,2 @@
 # K-gimp-theme
-brushes+gimp-splash+theme
+###brushes+gimp-splash+theme
