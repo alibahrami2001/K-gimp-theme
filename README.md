@@ -13,6 +13,6 @@ CUSTOMIZE YOUR GIMP USER INTERFACE
  install :<br>
  
  <div align="center">
-  <img src="https://github.com/sh4de-c4t/K-gimp-theme/blob/main/screenshot/01.mp4"/>
-<img src="https://github.com/sh4de-c4t/K-gimp-theme/blob/main/screenshot/02.mp4" />
+  <img src="https://github.com/sh4de-c4t/K-gimp-theme/blob/main/screenshot/01.gif"/>
+<img src="https://github.com/sh4de-c4t/K-gimp-theme/blob/main/screenshot/02.gif" />
   <br>
